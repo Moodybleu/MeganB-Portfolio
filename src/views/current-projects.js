@@ -9,7 +9,7 @@ const CurrentProjects = (props) => {
   return (
     <div className="current-projects-container">
       <Helmet>
-        <title>CurrentProjects - Megan Benn Portfolio</title>
+        <title>Current Projects - Megan Benn Portfolio</title>
         <meta
           name="description"
           content="Experience the expertise of a skilled software engineer with this comprehensive portfolio. Explore a variety of projects utilizing the latest technologies and techniques. From web development to data analysis, this portfolio demonstrates a commitment to quality, innovation, and problem-solving. Learn about the developer's past achievements and see how they can bring your next project to the next level."
